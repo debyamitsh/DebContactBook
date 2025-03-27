@@ -31,5 +31,5 @@ python debcontactbook.py
 Les contributions sont les bienvenues ! N'hésitez pas à proposer des améliorations via des issues ou des pull requests.
 
 ## Licence
-Ce projet est sous licence MIT.
+
 
